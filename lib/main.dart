@@ -7,7 +7,7 @@ void main() {
       home: Scaffold(
         body: GradientContainer(
         Color.fromRGBO(10, 2, 2, 5),
-        Color.fromRGBO(90, 4, 4, 5),
+        Color.fromRGBO(600, 4, 4, 5),
         ),
       ),
     ),
